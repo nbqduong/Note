@@ -1,0 +1,23 @@
+- Sự ra đời nền móng, cơ sở cho các phép tính của robotics vào những năm 1870, với chương trình của Felix Klein
+	? relationship between geometry and group theoretic ideas cái này thì ảnh hưởng ntn tới sự phát triển tiếp theo? và nó là cái gì
+- tiếp theo là một số công thức nền móng đã, cần tìm hiểu rõ hơn
+- Những thứ viết trong sách thì được phát triển dựa trên nền móng các thành quả nghiên cứu của ông Lie về đại số 
+		?  ad hoc kinematic mechanism là gì
+- Quyển sách này nhóm tác giả làm mất những 8 năm để hoàn thành quyển sách, vậy nên hãy trân trọng nó
+- Quyển sách nên được chia thành 2 học kì để học đối với các trường đại học nếu muốn sinh viên hiểu sâu sắc
+
+Chương 1: tổng quan
+- Ưu điểm của các electric actuator là nhẹ, truyền động mạnh
+	? backlash là gì
+	? làm sao để có thể thể hiện vị trí robot thông qua exponential coordinate
+- Ưu điểm của thủy lực là công suất lớn
+- Ưu điểm của khí nén là tác động với vận tốc sinh ra nhanh
+- Tổng quan về các chương sau trong sách
+Chương 2: 
+- cách xác định bậc tự do thông qua lựa chọn các điểm. Ví dụ một vật rắn trong không gian ba chiều:
+	- xác định điểm đầu tiên, lựa chọn tùy ý các điểm trong tọa độ x,y,z có ba bậc tự do
+	- Lựa chọn thứ 2, xác định bằng cách chọn trên đường tròn tâm A bán kính dAB, như vậy điểm B được xác định bởi 2 thông số đó là dAB và vị trí trên cung tròn tâm A
+	- Lựa chọn thứ 3, là điểm C, giao của 2 đường tròn tâm A bk d Ac và tâm B bk dBC, có 2 điểm như vậy có 1 biến để xác định được vị trí của điểm C
+	- Các điểm còn lại đều phụ thuộc
+- nên tổng cộng sẽ có 6 bậc tự do, là x,y,z và góc xoay quanh các trục x,y,z 
+	? nhưng mà cách tìm và công thức đi ra hơi có chút gì đó k liên quan mấy

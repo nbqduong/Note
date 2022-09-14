@@ -1,0 +1,4 @@
+Chương 1: introduction
+Giới thiệu tổng quan các định nghĩa về robot, chức năng tổng quát nhất định cần có ở 1 robot, lịch sử hình thành và phát triển
+	- Links Liên kết là gì
+	- Joint 
